@@ -36,7 +36,7 @@ How to install :
 
 Download this new modern blog apps, Create new database on phpmyadmin , name it with larang and import larang.sql on larang download folder db on your new msql.
 
-open larang folder right click and select gitbash here run command composer install && phpkey:generate && php artisan serve.
+open larang folder right click and select gitbash here run command composer install && php artisan key:generate && php artisan serve.
 
 open localhost:8000 , login with
 
