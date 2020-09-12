@@ -34,6 +34,8 @@ Requipment :Need third party apps your must download :
 
 How to install :
 
+[Play video tutorial installation →](https://youtu.be/mJM2b5Ok7rg)
+
 Download this new modern blog apps, Create new database on phpmyadmin , name it with larang and import larang.sql on larang download folder db on your new msql.
 
 create new folder name it with larang on C:Xampp/htdocs , open larang folder right click and select gitbash here run command composer install && php artisan key:generate && php artisan serve.
