@@ -4,13 +4,23 @@
 
 A modern CMS blogging platform develope using laravel on backend with mysql db and angular on front end for displaying all blog article content.
 
+Home page 
+
 ![laravel angular blog cms](https://a.fsdn.com/con/app/proj/larapos/screenshots/new%20cms%20blog%20laravel%20angular%20website%20blog%20%281%29.png/max/max/1)
+
+Frontend static angular blogs
 
 ![laravel angular blog cms](https://a.fsdn.com/con/app/proj/larapos/screenshots/new%20cms%20blog%20laravel%20angular%20website%20blog%20%285%29.png/max/max/1)
 
+Frontend dynamic laravel blogs
+
 ![laravel angular blog cms](https://a.fsdn.com/con/app/proj/larapos/screenshots/new%20cms%20blog%20laravel%20angular%20website%20blog%20%282%29.png/max/max/1)
 
+Login menu
+
 ![laravel angular blog cms](https://a.fsdn.com/con/app/proj/larapos/screenshots/new%20cms%20blog%20laravel%20angular%20website%20blog%20%284%29.png/max/max/1)
+
+Create article post Blog
 
 ![laravel angular blog cms](https://a.fsdn.com/con/app/proj/larapos/screenshots/new%20cms%20blog%20laravel%20angular%20website%20blog%20%283%29.png/max/max/1)
 
