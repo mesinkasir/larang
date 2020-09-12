@@ -1,0 +1,17 @@
+<div class="container">
+<div class="row">
+<div *ngFor="let mydata of data[0]" class="col-12 col-md-12 p-3 p-md-5">
+      
+<div class="shadow p-3 p-md-5 rounded">
+        <h1 class="text-white bg-danger p-3 rounded"><strong>{{mydata.title}}</strong></h1>
+
+		<!--<pre><code>-->
+
+		<small>{{mydata.body}}</small>
+		</div>
+		<!--</code></pre>-->
+		
+		</div>
+		</div>
+		</div>
+<router-outlet></router-outlet>
