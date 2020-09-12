@@ -40,7 +40,7 @@ for upload on web just upload all file on host.
 
 How to run angular front end :
 
-Open folder larang/frontend right click gitbash here , run command
+Open folder larang/frontend configure connect.php with databased , and right click gitbash here , run command
 
 npm install && ng serve
 
