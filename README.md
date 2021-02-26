@@ -2,6 +2,8 @@
 
 ### LARAVEL ANGULAR BLOG
 
+### *Work with laravel 7*
+
 A modern CMS blogging platform develope using laravel on backend with mysql db and angular on front end for displaying all blog article content.
 
 Home page 
