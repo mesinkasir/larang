@@ -2,6 +2,8 @@
 
 ### LARAVEL ANGULAR BLOG
 
+### *Work with laravel 7*
+
 A modern CMS blogging platform develope using laravel on backend with mysql db and angular on front end for displaying all blog article content.
 
 Home page 
@@ -61,3 +63,5 @@ open localhost:4200
 for deploy on your host just run "ng build" and upload dist folder on hosting
 
 Made with ❤ by https://mesinkasironline.web.app
+
+full documentation installation here https://www.hockeycomputindo.com/2021/01/cara-integrasi-laravel-angular-learn.html
